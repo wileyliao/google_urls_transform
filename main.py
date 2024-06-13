@@ -15,9 +15,9 @@ def batch_convert_google_drive_urls(view_urls):
 
 # 測試用的 URL 列表
 view_urls = [
-    "https://drive.google.com/file/d/1-bYAfVkocqz4H4X9TmZhPAIFz2xjow6_/view?usp=sharing",
-    "https://drive.google.com/file/d/1-g_7gdwo2A3Do5lheVhKSUE-3c0LX0RZ/view?usp=sharing",
-    "https://drive.google.com/file/d/1-h-idnLHjo4jhuNxbMT2bTxZZ-tG6Ej4/view?usp=sharing"
+    "https://drive.google.com/file/d/1awqbHBVpm65Oy_OlJuE_HAPhlsVPiyPM/view?usp=sharing",
+    "https://drive.google.com/file/d/1G04MNdPO0sNgujkLC9UPMmrM-NV-vBMJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1GCk5bLTBLAPAPqTZHVmayjvgauU7UDRK/view?usp=sharing"
 ]
 
 # 批量轉換
